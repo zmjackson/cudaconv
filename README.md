@@ -1,4 +1,4 @@
 # cudaconv
 2D Convolution using CUDA
 
-Personal project for learning
+Personal project for learning CUDA
